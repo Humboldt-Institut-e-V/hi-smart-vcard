@@ -19,3 +19,10 @@ This Application is distributed under the GNU Affero General Public License. Pub
 * We have no business case which would benefit from this application to be proprietary.
 * Our developers want to be able to learn from others, who work with code derived from this project.
 * We'd like to see many people using Smart Business Card Applications on their phone, so it will be more convenient for our employees to use this application.
+
+This project includes files from third party projects:
+
+* Icons from https://github.com/google/material-design-icons optained via https://fonts.google.com/icons licensed under the Apache License Version 2.0.
+* A QR-Code Library from https://github.com/datalog/qrcode-svg licenced under The MIT License (MIT).
+
+All those third party files retain their original license and are not licensed under the GNU Affero General Public License.
