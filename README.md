@@ -1,6 +1,6 @@
 # hi-smart-vcard
 
-**WARNING: Do not use this project. It contains trademarked logos and text. There is a fork of this project meant for public use. It was created and is maintained by the original author. Please use it instead.**
+**WARNING: Do not use this project. It contains trademarked logos and text. There is a fork of this project meant for public use. It was created and is maintained by the original author. Please use it instead: https://github.com/chris109b/pwa-smart-vcard/ **
 
 If you insist to base your own work on this project, please make absolutely sure to remove all elements that refer to Humboldt-Institut e.V.
 
