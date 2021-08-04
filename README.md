@@ -10,7 +10,7 @@ This is a Progressive Web App (PWA) designed for our employees to use on a perso
 
 The application was created as a convenient way for the developer to test new concepts and technology while making something useful at the same time.
 
-This applications interface and users documentation is in German. To learn the language please visit: https://www.humboldt-institut.org/
+This applications interface and users documentation is in German. If you want to learn German in Germany, please visit: https://www.humboldt-institut.org/en/
 
 ## Licensing
 
@@ -23,6 +23,6 @@ This Application is distributed under the GNU Affero General Public License. Pub
 This project includes files from third party projects:
 
 * Icons from https://github.com/google/material-design-icons optained via https://fonts.google.com/icons licensed under the Apache License Version 2.0.
-* A QR-Code Library from https://github.com/datalog/qrcode-svg licenced under The MIT License (MIT).
+* A QR-Code library from https://github.com/datalog/qrcode-svg licenced under The MIT License (MIT).
 
 All those third party files retain their original license and are not licensed under the GNU Affero General Public License.
