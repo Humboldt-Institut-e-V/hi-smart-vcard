@@ -2,7 +2,9 @@ self.addEventListener('install', e => {
     e.waitUntil(
         caches.open('static').then(cache => {
             return cache.addAll([
+                "./",
                 "./favicon.ico",
+                "./index.html",
                 "./css/index.css",
                 "./css/OpenSans-Bold.ttf",
                 "./css/OpenSans-Regular.ttf",
@@ -20,7 +22,6 @@ self.addEventListener('install', e => {
                 "./img/share.svg",
                 "./img/web.svg",
 				"./img/xmpp-chat.svg",
-                "./img/xmpp-logo.svg",
                 "./js/index.js",
                 "./js/qrcode.min.js"
 			]);
