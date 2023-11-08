@@ -2,7 +2,7 @@
     "short_name": "Visitenkarte",
     "name": "Visitenkarte - Humboldt-Institut e.V.",
     "description": "Geschäftliche und private Visitenkarte für Mitarbeiter des Humboldt-Instituts. ",
-	"version": "2.7",
+	"version": "2.8",
     "icons": [
       {
         "src": "./img/app-icon-192.png",
